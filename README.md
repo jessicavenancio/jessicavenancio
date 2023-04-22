@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi! I am Jéssica Venâncio</h1>
 
 ### A little about me...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br />
-Dev React and Node | Teacher of Dev Front| Systems Support Analyst | Bachelor's Degree in Information Systems
-Systems <br />
+Dev React and Node | Teacher of Dev Front| Systems Support Analyst | Bachelor's Degree in Information Systems<br />
 
 - 🔭 I am currently a teacher of Dev Front programming.
 - 🌱 I am a lover of studies, I like to be always in evolution.
