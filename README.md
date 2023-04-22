@@ -5,7 +5,7 @@ Dev React and Node | Teacher of Dev Front| Systems Support Analyst | Bachelor's 
 
 - 🔭 I am currently a teacher of Front-End programming.
 - 🌱 Lover of knowledge, I always look to be updated.
-- 💬 Ask me about anything, what I know I'll help you, what I don't know I'll try to direct you.
+- 💬 Ask Me Anything!, I'll help you the best way I can.
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='60'>
 
