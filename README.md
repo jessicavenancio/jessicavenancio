@@ -3,7 +3,7 @@
 ### A little about me...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br />
 Dev React and Node | Teacher of Dev Front| Systems Support Analyst | Bachelor's Degree in Information Systems<br />
 
-- 🔭 I am currently a teacher of Dev Front programming.
+- 🔭 I am currently a teacher of Front-End programming.
 - 🌱 I am a lover of studies, I like to be always in evolution.
 - 💬 Ask me about anything, what I know I'll help you, what I don't know I'll try to direct you.
 
