@@ -11,8 +11,8 @@ Systems <br />
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='60'>
 
  ### ⚙️ Some Tool and Tech I use
- |![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-NodeJs-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)|![](https://img.shields.io/badge/-Css-black?logo=css3&style=plastic)|![](https://img.shields.io/badge/-Swagger-black?logo=swagger&style=plastic)|
-|---|---|---|---|---|
+ |![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-NodeJs-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)|![](https://img.shields.io/badge/-Css-black?logo=css3&style=plastic)|![](https://img.shields.io/badge/-Swagger-black?logo=swagger&style=plastic)|![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=plastic)
+|---|---|---|---|---|---|
 |![](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=plastic)|![](https://img.shields.io/badge/-Postman-black?logo=postman&style=plastic)|![](https://img.shields.io/badge/-Html-black?logo=html5&style=plastic)|![](https://img.shields.io/badge/-React-black?logo=react&style=plastic)|![](https://img.shields.io/badge/-Express-black?logo=express&style=plastic)|
 ##
  
