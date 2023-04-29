@@ -3,9 +3,9 @@
 ### A little about me...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br />
 Dev React and Node | Teacher of Dev Front| Systems Support Analyst | Bachelor's Degree in Information Systems<br />
 
-- 🔭 I am currently a teacher of Front-End programming.
+- 🔭 I am currently a  front-end dev teacher.
 - 🌱 Lover of knowledge, I always look to be updated.
-- 💬 Ask Me Anything!, I'll help you the best way I can.
+- 💬 Ask me anything!, I'll help you the best way I can.
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='60'>
 
